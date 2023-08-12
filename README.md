@@ -1,0 +1,2 @@
+# Natural-disaster-management-syste-in-Django
+It is simply a management system and it is developed using python, Django and SQLite. As the title says, it collects and reports the data of the disasters and the damage caused by that disaster. It shows the records of Earthquake, Tornado, Tsunami and Volcano. On the other hand, admin can perform the CRUD operations on these disasters and the damage caused by these disasters.
